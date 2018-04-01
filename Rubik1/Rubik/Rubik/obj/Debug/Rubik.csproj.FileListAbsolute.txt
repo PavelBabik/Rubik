@@ -1,0 +1,10 @@
+C:\Users\babik\source\repos\Rubik\Rubik\bin\Debug\Rubik.exe.config
+C:\Users\babik\source\repos\Rubik\Rubik\bin\Debug\Rubik.exe
+C:\Users\babik\source\repos\Rubik\Rubik\bin\Debug\Rubik.pdb
+C:\Users\babik\source\repos\Rubik\Rubik\obj\Debug\Rubik.csprojResolveAssemblyReference.cache
+C:\Users\babik\source\repos\Rubik\Rubik\obj\Debug\Rubik.Form1.resources
+C:\Users\babik\source\repos\Rubik\Rubik\obj\Debug\Rubik.Properties.Resources.resources
+C:\Users\babik\source\repos\Rubik\Rubik\obj\Debug\Rubik.csproj.GenerateResource.Cache
+C:\Users\babik\source\repos\Rubik\Rubik\obj\Debug\Rubik.csproj.CoreCompileInputs.cache
+C:\Users\babik\source\repos\Rubik\Rubik\obj\Debug\Rubik.exe
+C:\Users\babik\source\repos\Rubik\Rubik\obj\Debug\Rubik.pdb
